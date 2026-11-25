@@ -64,4 +64,4 @@ Soy **Analista Universitario en Sistemas** y estoy terminando **Ingeniería en S
   <a href="mailto:yaguer590@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" width="220"></picture></a>
 </p>
 
-<p align="center"><sub>Los proyectos con código privado son de equipos o clientes; puedo mostrarlos y explicarlos en una entrevista.</sub></p>
+<p align="center"><sub>Los proyectos con código privado son de equipos o clientes, puedo mostrarlos y explicarlos en una entrevista.</sub></p>

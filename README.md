@@ -44,7 +44,7 @@ Soy **Analista Universitario en Sistemas** y estoy terminando **Ingeniería en S
 </p>
 
 <p align="center">
-  <a href="https://github.com/yaguer11?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mas-dark.svg"><img src="assets/card-mas-light.svg" alt="Más proyectos" width="49%"></picture></a>
+  <a href="https://github.com/yaguer11?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mas-v2-dark.svg"><img src="assets/card-mas-v2-light.svg" alt="Más proyectos" width="49%"></picture></a>
 </p>
 
 <p align="center">

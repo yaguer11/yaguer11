@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/germ%C3%A1n-adri%C3%A1n-mu%C3%B1oz-97ab5122a/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Germán Muñoz — Desarrollador full-stack" width="100%"></picture></a>
+  <a href="https://www.linkedin.com/in/germ%C3%A1n-adri%C3%A1n-mu%C3%B1oz-97ab5122a/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=3"><img src="assets/header-light.svg?v=3" alt="Germán Muñoz — Desarrollador full-stack" width="100%"></picture></a>
 </p>
 
 Soy **Analista Universitario en Sistemas** y estoy terminando **Ingeniería en Sistemas de Información** en la UNViMe, donde también soy **Jefe de Trabajos Prácticos** en Paradigmas de Programación I y Diseño Web. Trabajo en equipo en sistemas que usan comercios y clubes reales, y desarrollo agentes de IA para datos académicos. Antes de programar trabajé en la industria: soy Técnico en Automatización y en Mantenimiento Industrial.
